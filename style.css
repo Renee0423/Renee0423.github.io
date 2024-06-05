@@ -51,6 +51,7 @@ body {
 }
 .content {
     margin-left: 20px;
+    text-align: justify;
 }
 .paragraph {
     margin: 10px 0;
